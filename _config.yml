@@ -24,6 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my blog, where I share my current focuses and technical discoveries!
   I am a software engineer at Paytient, 
   a startup helping people live better lives by improving their ability to better access and afford care.
+google_analytics: UA-153778920-1
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dylanseidt
