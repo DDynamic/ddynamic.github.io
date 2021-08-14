@@ -2,7 +2,7 @@ Discord Stars is a fun discord bot that enables you to reward your server member
 
 I used Discord.js to code the bot and Postgres to store stars. I have licensed Discord Stars under the MIT license. You are free to create your instance to use on your server. You can run Discord Stars on any machine capable of running Node.js. Alternatively, you may use the Deploy to Heroku feature to get started instantly.
 
-Source Code and Getting Started Instructions: [https://github.com/DDynamic/discord-stars]()
+Source Code and Getting Started Instructions: <https://github.com/DDynamic/discord-stars>
 
 Command Reference:
 
